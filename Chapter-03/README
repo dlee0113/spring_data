@@ -1,0 +1,9 @@
+The example applications found from this directory are described in following:
+
+- JPA-Criteria directory contains the example application that uses the JPA Criteria API for building queries.
+- Method-Name directory contains the example application that builds queries by using the query generation from method name strategy.
+- Named-Native-Query directory contains the example application that uses named native queries.
+- Named-Query directory contains the example application that uses named queries.
+- Query-Annotation directory contains the example application that uses JPQL queries with the @Query annotation.
+- Query-Annotation-Native-Query directory contains the example application that creates native queries with the @Query annotation.
+- Querydsl directory contains the example application that uses Querydsl.

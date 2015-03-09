@@ -1,0 +1,4 @@
+The example applications found from this directory are described in following:
+
+- All-Repositories directory contains the example application where custom logic is added to all repositories.
+- Single-Repository directory contains the example application where custom logic is added to a single repository.

@@ -1,0 +1,6 @@
+The example applications of this directory are described in following:
+
+- Jedis contains the configuration example of the Jedis connector.
+- JRedis contains the configuration example of the JRedis connector.
+- RJC contains the configuration example of the RJC connector.
+- SRP contains the configuration example of the SRP connector.

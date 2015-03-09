@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+body {
+    background-color: #CCC8CC;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.page {
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.action-buttons {
+    margin-bottom: 10px;
+}
+
+.form-buttons {
+    bottom: 20px;
+    float: right;
+    position: relative;
+}
+
+#content {
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    padding: 0;
+    width: 98%;
+}
+
+#contact-list {
+    margin: 20px 0 20px 0;
+}
+
+.contact-list-item {
+    margin-bottom: 10px;
+}
+
+.pagination-holder {
+    clear: both;
+}
+
+.pagination a {
+    line-height: 18px;
+}
+
+#result-count-holder {
+    float: left;
+}
+
+#contact-list-filters {
+    float: right;
+}
+
+#search-result-filters {
+    float: right;
+}
+
+label {
+    font-weight: bold;
+}
+
+legend {
+    margin-bottom: 20px;
+}
+
+#footer {
+    background: #000000;
+    height: 40px;
+}
